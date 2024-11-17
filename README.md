@@ -1,4 +1,4 @@
-# TrueBit Mint and Retire Calculator
+# truebit mint and retire calculator
 
 ## Overview
 A simple calculator for truebit os (truebit.io) token minting and retiring operations.
